@@ -41,7 +41,7 @@ Spck editor is a mobile version of VScode. Because it is a mobile editor it's ha
 
 
 ### Also support digital media files
-> **Warning:** Those all file format are not editable in Spck Code editor.
+> **Warning:** Some file format are not editable in Spck Code editor.
 
 #### Image
 * Jpg (main.jpg)
